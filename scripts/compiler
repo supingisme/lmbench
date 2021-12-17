@@ -13,4 +13,5 @@ then	CC=cc
 		fi
 	done
 fi
+CC=aarch64-unknown-nto-qnx7.0.0-gcc
 echo $CC
